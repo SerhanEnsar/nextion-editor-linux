@@ -1,0 +1,9 @@
+# Nextion Editor dosyaları (ITEAD'e ait) bu depoya eklenmez
+*.exe
+*.dll
+*.bin
+*.lang
+*.zip
+*.HMI
+*.tft
+keyboarden/
